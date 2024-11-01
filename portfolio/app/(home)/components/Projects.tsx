@@ -1,5 +1,5 @@
 import React from 'react'
-import { SiCss3, SiExpress, SiFirebase, SiGo, SiGooglecloudstorage, SiHtml5, SiJavascript, SiMongodb, SiNodedotjs, SiPython, SiReact, SiStreamlit, SiTailwindcss } from 'react-icons/si'
+import { SiCss3, SiExpress, SiFirebase, SiGooglecloudstorage, SiHtml5, SiJavascript, SiMongodb, SiNodedotjs, SiPython, SiReact, SiStreamlit, SiTailwindcss } from 'react-icons/si'
 import Title from './Title'
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
