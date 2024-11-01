@@ -13,11 +13,11 @@ export default function HeroSection() {
             {"Based in India, I'm a passionate Fullstack Developer. I love to build web applications."}
         </p>
         
-        <div className='flex flex-row justify-evenly lg:justify-between cursor-pointer'>
-            <Link href={"mailto:ayeshasiddiqua.connects@gmail.com"} className='inline-block group'>
+        <div className='flex flex-row justify-evenly gap-2 cursor-pointer'>
+            <Link  href={"mailto:ayeshasiddiqua.connects@gmail.com"} target='_blank' className='inline-block group' passHref>
                 <Title className='text-2xl' text="Contact Me 📭"/>
             </Link>
-            <Link href="/MyCV.png" className='inline-block group'>
+            <Link href="/MyCV.png" className='inline-block group'passHref>
                 <Title className='text-2xl' text="Resume 📁"/>
             </Link>
             

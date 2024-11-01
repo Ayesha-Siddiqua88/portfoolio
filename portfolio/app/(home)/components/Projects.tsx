@@ -24,7 +24,7 @@ export default function Projects() {
         {
             title:"Pinterest Clone",
             tech:[ SiJavascript,SiTailwindcss,SiNodedotjs, SiExpress,SiMongodb],
-            link:"https://github.com/Ayesha-Siddiqua88/Memer",
+            link:"https://github.com/Ayesha-Siddiqua88/Pinterest_Clone",
             cover:"/project2.png",
             background:"bg-blue-500"
         },
