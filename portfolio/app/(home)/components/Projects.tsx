@@ -12,35 +12,35 @@ export default function Projects() {
             tech:[SiPython,SiStreamlit,SiGooglecloudstorage],
             link:"https://github.com/Ayesha-Siddiqua88/Health-Pilot",
             cover:"/project4.png",
-            background:" bg-orange-600"
+            background:" bg-rose-700"
         },
         {
             title:"Attendex",
             tech:[SiHtml5, SiCss3, SiJavascript, SiFirebase],
             link:"https://attendexx.netlify.app/",
             cover:"/project1.png",
-            background:"bg-indigo-500"
+            background:"bg-sky-600"
         },
         {
             title:"Gesture-controlled Drawing App",
             tech:[SiPython, SiOpencv, SiMediafire],
-            link:"https://attendexx.netlify.app/",
+            link:"https://github.com/Ayesha-Siddiqua88/AirCanvas_-_OpenCV",
             cover:"/opencv.png",
-            background:"bg-indigo-950"
+            background:"bg-blue-800"
         },
         {
             title:"Pinterest Clone",
             tech:[SiJavascript,SiTailwindcss,SiNodedotjs, SiExpress,SiMongodb],
             link:"https://github.com/Ayesha-Siddiqua88/Pinterest_Clone",
             cover:"/project2.png",
-            background:"bg-pink-950"
+            background:"bg-orange-700"
         },
         {
             title:"Memer",
             tech:[SiReact],
             link:"https://github.com/Ayesha-Siddiqua88/Memer",
-            cover:"/project3.png",
-            background:"bg-blue-500"
+            cover:"/memer.png",
+            background:"bg-teal-600"
         },
     ]
     

@@ -17,13 +17,13 @@ export default function HeroSection() {
             <Title className='text-2xl' text="Contact Me 📭"/>
         </Link>
         <Link href="/MyCV.png" className='inline-block group' passHref>
-            <Title className='text-2xl' text="Resume 📁"/>
+            <Title className='text-2xl left-2' text="Resume 📁"/>
         </Link>
         </div>
 
         <div className='w-72 h-45 mt-40 ml-24 lg:mt-0 lg:ml-0'>
             <div >
-               <img src='speaker.jpg' className='glow' alt='image' />
+               <img src='githubprofile.jpg' className='glow' alt='image' />
             </div>
             <Moving>
                 <p>Available for work</p>
