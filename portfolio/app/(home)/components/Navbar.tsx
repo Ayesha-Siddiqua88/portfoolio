@@ -40,7 +40,7 @@ return (
                         key={index} 
                         aria-label={social.label}>
                             <span className="hover:underline decoration-green-500">
-                            <Icon className="w-5 h-5 lg:w-6 h-6 hover:scale-125 transition-all" />
+                            <Icon className="w-5 lg:w-6 h-6 hover:scale-125 transition-all" />
                             </span>
                         </Link>
                 })}
